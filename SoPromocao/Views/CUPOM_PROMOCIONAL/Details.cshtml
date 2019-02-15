@@ -1,0 +1,90 @@
+﻿@model SoPromocao.Models.CUPOM_PROMOCIONAL
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CUPOM_PROMOCIONAL</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NOME_PRODUTO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NOME_PRODUTO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VALOR)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VALOR)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DATA_INICIO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DATA_INICIO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DATA_FIM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DATA_FIM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ESTADO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ESTADO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CIDADE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CIDADE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BAIRRO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BAIRRO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RUA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RUA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NUMERO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NUMERO)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID_CUPOM }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

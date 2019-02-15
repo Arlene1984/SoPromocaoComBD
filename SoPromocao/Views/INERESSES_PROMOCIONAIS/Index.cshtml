@@ -1,0 +1,39 @@
+﻿@model IEnumerable<SoPromocao.Models.INERESSES_PROMOCIONAIS>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_CONSUMIDOR)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_PROMOCAO)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_CONSUMIDOR)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_PROMOCAO)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID_INTERESSES_PROMOCIONAIS }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID_INTERESSES_PROMOCIONAIS }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID_INTERESSES_PROMOCIONAIS })
+        </td>
+    </tr>
+}
+
+</table>
