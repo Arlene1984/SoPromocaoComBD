@@ -1,0 +1,56 @@
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\ApplicationInsights.config
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\So_Promocao_Com _BD.dll.config
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\So_Promocao_Com _BD.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\So_Promocao_Com _BD.pdb
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Antlr3.Runtime.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\EntityFramework.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\EntityFramework.SqlServer.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Google.Protobuf.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.Web.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\MySql.Data.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Newtonsoft.Json.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Helpers.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Mvc.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Optimization.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Razor.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\WebGrease.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\EntityFramework.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\EntityFramework.SqlServer.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Google.Protobuf.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\MySql.Data.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Helpers.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Mvc.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Optimization.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.Razor.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Antlr3.Runtime.pdb
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Newtonsoft.Json.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\Microsoft.AI.Web.xml
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\obj\Debug\So_Promocao_Com_BD.csproj.CoreCompileInputs.cache
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\obj\Debug\So_Promocao_Com _BD.dll
+C:\Users\ARLEN\Desktop\AT_Organizada\Tentativas\So_Promocao_Com _BD\SoPromocaoComBD\So_Promocao_Com _BD\obj\Debug\So_Promocao_Com _BD.pdb
